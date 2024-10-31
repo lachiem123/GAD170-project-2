@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\munny\\OneDrive\\Documents\\GAD170 project 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14A9F11E-257D-17E6-113E-24255A93D3D0}|Assembly-CSharp.csproj|c:\\users\\munny\\onedrive\\documents\\gad170 project 2\\assets\\pressureplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14A9F11E-257D-17E6-113E-24255A93D3D0}|Assembly-CSharp.csproj|solutionrelative:assets\\pressureplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pressureplate.cs",
+              "DocumentMoniker": "C:\\Users\\munny\\OneDrive\\Documents\\GAD170 project 2\\Assets\\pressureplate.cs",
+              "RelativeDocumentMoniker": "Assets\\pressureplate.cs",
+              "ToolTip": "C:\\Users\\munny\\OneDrive\\Documents\\GAD170 project 2\\Assets\\pressureplate.cs",
+              "RelativeToolTip": "Assets\\pressureplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:17:22.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
