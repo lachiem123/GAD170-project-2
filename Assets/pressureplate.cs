@@ -10,6 +10,7 @@ public class Week6 : MonoBehaviour
     public float moveSpeed = 2.0f; // Speed at which the door opens
     private Vector3 originalPosition;
     private bool isPressed = false;
+    public GameObject text;
 
     void Start()
     {
@@ -21,9 +22,15 @@ public class Week6 : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+
+        Debug.Log("Enter trigger");
+
         if (other.CompareTag("Player")) // Ensure only the player triggers it
         {
             isPressed = true;
+            // get text
+            // show text
+            text.SetActive(true);
         }
     }
 
@@ -32,6 +39,7 @@ public class Week6 : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             isPressed = false;
+            text.SetActive(false);
         }
     }
 
